@@ -15,14 +15,10 @@ function theBeatlesPlay(musicians, instruments) {
 ];
 
 function johnLennonFacts() {
-  let count = number;
-   while(count > 0) { 
+  let count = facts;
+   while(count  0) { 
   console.log(count--);
   }
-  return 'done';
-}
- 
-
-
+  return ;
 
 }
