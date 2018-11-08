@@ -19,7 +19,7 @@ function johnLennonFacts(facts) {
   let count = facts;
   while (count < facts) { 
   count++;
-  
+  factsArray.push(count + '!!!')
   }
   return factsArray
 }
