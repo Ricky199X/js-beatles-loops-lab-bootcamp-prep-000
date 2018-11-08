@@ -25,3 +25,12 @@ function johnLennonFacts(facts) {
   return factsArray
 }
 
+function iLoveTheBeatles(number) {
+  let returnArray = [];
+
+  do { 
+    returnArray.push('I love The Beatles!');
+    number++
+  } while(number < 15)
+      return returnArray
+}
